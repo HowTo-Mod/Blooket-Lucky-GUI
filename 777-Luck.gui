@@ -6,7 +6,7 @@
             console.log("꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂ Divine Intervention, Blooket Moderators tried banning you for hacking and TOS violation!")
         }
     } else console.log("already run");
-    if (console.log("%c 𖦹Blooket Insanity Menu𖦹 %c\n	ㅤ♡By HowTo-Mod On Github♡", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%cLuckygui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Follow me on Github!%c – ̗̀ 𝓗𝔞𝔱𝔢𝔯𝔰 𝔤𝔬𝔫𝔫𝔞 𝔥𝔞𝔱𝔢 ̖́- ᕕ( ᐛ )ᕗ", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c 𖦹ʙʟᴏᴏᴋᴇᴛ ʟᴜᴄᴋʏ ɢᴜɪ𖦹 %c\n	ㅤ♡By HowTo-Mod On Github♡", "color: #E7BA00; font-size: 3rem", "color: gold; font-size: 1rem"), console.log("%cLuckygui.js", "color: gold; font-size: 1rem"), console.log("%c	Follow me on Github!%c https://github.com/HowTo-Mod ", "color: gold; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var t = document.createElement("iframe"), o = (document.body.appendChild(t), window.clearId = window.setInterval(() => {}, 0)); o--;) t.contentWindow.clearInterval.call(window, o);
         t.remove()
     } {
@@ -42,7 +42,7 @@
                 paddingTop: "2px",
                 fontSize: "1.5rem",
                 textAlign: "center"
-            }), t.innerHTML = '777 Lucky Gui 777<span style="font-size: 0.75rem">v38.60.25</span>', document.createElement("button")),
+            }), t.innerHTML = '777-𝔏𝔲𝔠𝔨𝔶_𝔤𝔲𝔦-777<span style="font-size: 0.75rem">v38.60.25</span>', document.createElement("button")),
             l = (t.appendChild(l), o(l, {
                 background: "black",
                 height: "45px",
@@ -83,7 +83,7 @@
                     name: "Auto Answer (Toggle)",
                     description: "Toggles auto answer on",
                     type: "toggle",
-                    enabled: (o.innerHTML = '<span><a target="blank" href="blank">By HowTo-Mod On Github!</a><br/><a target="67" href="F/">꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</a></span>', !1),
+                    enabled: (o.innerHTML = '<span><a target="https://github.com/HowTo-Mod" href="https://github.com/HowTo-Mod">꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</a><br/><a target="https://github.com/HowTo-Mod" href="F/"></a>By HowTo-Mod</span>', !1),
                     data: null,
                     run: function() {
                         this.enabled ? (this.enabled = !1, clearInterval(this.data), this.data = null) : (this.enabled = !0, this.data = setInterval(() => {
